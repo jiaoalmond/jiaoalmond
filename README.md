@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg?raw=false)
 -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiaoalmond&show_icons=true&locale=en&layout=compact" /></p>
