@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<-!
 **:palm_tree: Currently learning:** <br>
 Microsoft Certified: Azure Data Fundamentals
 <code><a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank"><img height="50" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a></code>
-
+-->
 
 
