@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
   
 <h5> 
-📫 Reach me at: <a href = "jinyuecon@gmail.com" target = "_self">  </a> <br>
+📫 Reach me at: <a href = "jinyuecon@gmail.com" target = "_self"> jinyuecon@gmail.com </a> <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
 <h5> 
 
