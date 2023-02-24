@@ -3,6 +3,7 @@
 <h2 align="center"> An Data Analyst </h2>
 
 📫 Reach me at: <a href = "" > jinyuecon@gmail.com 
+<br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
  
 
