@@ -7,9 +7,8 @@
 
 Here are some ideas to get you started:
 -->
-<div align="center">
-<h2> An Data Analyst <h2>
- </div>
+
+<h2 align="center"> An Data Analyst <h2>
   
 <!--
 **:mag_right: Currently searching for my next role**
