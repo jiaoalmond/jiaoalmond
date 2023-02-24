@@ -1,19 +1,13 @@
 <div align="center">
 <h1> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay</h1>
 </div>
-
-<!--
-**jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 <h2 align="center"> An Data Analyst <h2>
   
 <!--
+**jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
-  
 
 <h5> 📫 Reach me at: <a href = "" target = "_self"> jinyuecon@gmail.com </a> <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
