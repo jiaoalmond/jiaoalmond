@@ -1,12 +1,7 @@
 
 <h1 align="center"> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay</h1>
 <h2 align="center"> An Data Analyst </h2>
-  
-<!--
-**jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-**:mag_right: Currently searching for my next role**
--->
+
 
 <h5> 📫 Reach me at: <a href = "" > jinyuecon@gmail.com </a></h5>
 <h5>💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ </h5>
@@ -30,5 +25,10 @@ Here are some ideas to get you started:
 Microsoft Certified: Azure Data Fundamentals
 <code><a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank"><img height="50" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"></a></code>
 -->
-
+  
+<!--
+**jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+**:mag_right: Currently searching for my next role**
+-->
 
