@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
 
-<h5> 📫 Reach me at: <a href = "" > jinyuecon@gmail.com </a> <br>
-💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
-</h5> 
+<h5> 📫 Reach me at: <a href = "" > jinyuecon@gmail.com </a> <br></h5>
+<h5>💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ </h5>
+ 
 
 **:computer: Frequently Used Languages and Tools:** <br><br>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
