@@ -1,5 +1,5 @@
-![Alt text](https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg?raw=false)
-<img src="https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg" height=50% width=150%>
+
+<img src="https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg" height="50%" width="150%">
 
 <h1 align="center"> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay </h1>
 <h2 align="center"> An Data Analyst </h2>
@@ -32,5 +32,6 @@ Microsoft Certified: Azure Data Fundamentals
 **jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
+![Alt text](https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg?raw=false)
 -->
 
