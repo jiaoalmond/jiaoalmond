@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
   
-**:computer: Frequently Used Languages and Tools:** <br>
+** 📫 Reach me at: jinyuecon@gmail.com **
+** 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ **
+  
+**:computer: Frequently Used Languages and Tools:** <br><br>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
