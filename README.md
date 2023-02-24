@@ -1,9 +1,9 @@
 
-<h1 align="center"> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay</h1>
+<h1 align="center"> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay </h1>
 <h2 align="center"> An Data Analyst </h2>
 
-<h5> 📫 Reach me at: <a href = "" > jinyuecon@gmail.com </h5>
-<h5>💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ </h5>
+📫 Reach me at: <a href = "" > jinyuecon@gmail.com 
+💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
  
 
 **:computer: Frequently Used Languages and Tools:** <br><br>
