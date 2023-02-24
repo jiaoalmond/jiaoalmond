@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
   
 <h5> 
-📫 Reach me at: <a>jinyuecon@gmail.com <br>
+📫 Reach me at: <a>jinyuecon@gmail.com </a> <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
 <h5> 
 
