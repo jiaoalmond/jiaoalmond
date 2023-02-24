@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay</h1>
 </div>
-<h2 align="center"> An Data Analyst <h2>
+<h2 align="center"> An Data Analyst </h2>
   
 <!--
 **jiaoalmond/jiaoalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <h5> 📫 Reach me at: <a href = "" > jinyuecon@gmail.com </a> <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
-<h5> 
+</h5> 
 
 **:computer: Frequently Used Languages and Tools:** <br><br>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
