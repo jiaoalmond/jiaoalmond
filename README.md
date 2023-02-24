@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
 <h5> 
-📫 Reach me at: jinyuecon@gmail.com 
+📫 Reach me at: jinyuecon@gmail.com <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
-<h5> <br>
+<h5> 
 
   
 **:computer: Frequently Used Languages and Tools:** <br><br>
