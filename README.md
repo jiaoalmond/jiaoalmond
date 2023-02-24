@@ -18,7 +18,9 @@
 <code><a href="https://www.tableau.com/" target="_blank"><img height="50" width="80" src="https://vectorwiki.com/images/Tb8i6__tableau-logo.svg"></a></code>
 <code><a href="https://www.alteryx.com/" target="_blank"><img height="50" width="80" src="https://vectorwiki.com/images/E1Drf__alteryx-logo.svg"></a></code>
 <code><a href="https://powerbi.microsoft.com/en-ca/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-
+<code><a href="https://html.com/" target="_blank"><img height="50" width="80" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="50" width="80" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://www.sas.com/" target="_blank"><img height="50" width="80" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"></a></code>
 <br>
 <br>
 
