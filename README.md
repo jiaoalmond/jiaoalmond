@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
   
-** 📫 Reach me at: jinyuecon@gmail.com **
-** 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ **
+📫 Reach me at: jinyuecon@gmail.com 
+💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ <br>
   
 **:computer: Frequently Used Languages and Tools:** <br><br>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
