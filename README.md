@@ -1,5 +1,5 @@
 
-<img style='height: 50%; width: 100%; object-fit: contain' src="https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg" >
+<img src="https://github.com/jiaoalmond/jiaoalmond/blob/fb0ed05e1177353accfffe658414852ec84d7433/youtube_banner.jpg" width="1000" height="400">
 
 <h1 align="center"> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm JayJay </h1>
 <h2 align="center"> An Data Analyst </h2>
