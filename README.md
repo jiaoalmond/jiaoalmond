@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 **:mag_right: Currently searching for my next role**
 -->
 <h5> 
-📫 Reach me at: jinyuecon@gmail.com <br>
+📫 Reach me at: [jinyuecon@gmail.com](url) <br>
 💬 Visit my website: https://jiaoalmond.github.io/Portfolio/ 
 <h5> 
 
