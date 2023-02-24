@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
 <code><a href="https://www.tableau.com/" target="_blank"><img height="50" width="80" src="https://vectorwiki.com/images/Tb8i6__tableau-logo.svg"></a></code>
+<code><a href="https://www.alteryx.com/" target="_blank"><img height="50" width="80" src="https://vectorwiki.com/images/E1Drf__alteryx-logo.svg"></a></code>
+<code><a href="https://powerbi.microsoft.com/en-ca/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 
 <br>
 <br>
